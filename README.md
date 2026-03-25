@@ -9,6 +9,7 @@
 ## 🛠️ Tech Stack
 - PHP / Laravel
 - JavaScript / Vue
+- Python / Django
 - MySQL / PostgreSQL
 - Docker (learning)
 - AWS & GCP (learning)

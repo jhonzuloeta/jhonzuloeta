@@ -17,7 +17,10 @@
 ---
 
 ## 📈 GitHub Stats
-![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonzuloeta&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonzuloeta&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonzuloeta&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🌐 Website
